@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "b9e40bbec8d7b847b136cb27787e5728",
-"index.html": "0554728c5241090e2782ec978c6e84e1",
-"/": "0554728c5241090e2782ec978c6e84e1",
-"main.dart.js": "e9da6520a7110be7f537ae67d41ace58",
+  "version.json": "f5bb4806d2095d43913155ef3c0b0bae",
+"index.html": "09ddd3877b358b0aa639a3d2fb17feb3",
+"/": "09ddd3877b358b0aa639a3d2fb17feb3",
+"main.dart.js": "3be880f15589907ad5e9afd731143d82",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -19,7 +19,7 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/assets/cardinal_symptoms_v0.3_mini.json": "5d2ffa42edd6b81e0568129772c42481",
-"assets/assets/cardinal_symptoms_v0.4.json": "63c788413bea444a54fc8a0037c866d7",
+"assets/assets/cardinal_symptoms_v0.4.json": "ac2c54d5622ec02b44fb2ebfc1642d07",
 "assets/assets/cardinal_symptoms_v0.3.json": "ac352517ee23781236b26447dd7f5fc1"
 };
 

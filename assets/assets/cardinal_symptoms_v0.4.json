@@ -103,7 +103,7 @@
         },
         {
             "symptom": "some other cardinal symptom",
-            "differentialDiagnosis": [
+            "differentialDiagnoses": [
                 {
                     "name": "diagnosis 1",
                     "diagnosticInfo": [
