@@ -31348,19 +31348,19 @@ var $async$lL=A.aa(function(a,b){if(a===1)return A.a6(b,r)
 while(true)switch(s){case 0:o=J
 n=B.ar
 s=3
-return A.ah($.Ia().QK("assets/cardinal_symptoms_v0.3.json"),$async$lL)
+return A.ah($.Ia().QK("assets/cardinal_symptoms_v0.4.json"),$async$lL)
 case 3:s=2
 return A.ah(n.cB(0,b),$async$lL)
 case 2:p=o.T(b,"cardinalSymptoms")
 q.b=p
 A.ct("..number of cardinal symptoms "+J.bj(p))
-A.ct("json [0]['name'] -> "+A.h(J.T(J.T(q.b,0),"name")))
+A.ct("json [0]['symptom'] -> "+A.h(J.T(J.T(q.b,0),"name")))
 A.ct("json [0]['differentialDiagnoses'][0]['name'] -> "+A.h(J.T(J.T(J.T(J.T(q.b,0),"differentialDiagnoses"),0),"name")))
 A.ct("json [0]['differentialDiagnoses'][0]['diagnosticInfo'].length -> "+A.h(J.bj(J.T(J.T(J.T(J.T(q.b,0),"differentialDiagnoses"),0),"diagnosticInfo"))))
 A.ct("json [0]['differentialDiagnoses'][0]['diagnosticInfo'][0]['name'] -> "+A.h(J.T(J.T(J.T(J.T(J.T(J.T(q.b,0),"differentialDiagnoses"),0),"diagnosticInfo"),0),"name")))
 A.ct("json [0]['differentialDiagnoses'][0]['diagnosticInfo'][0]['result'] -> "+A.h(J.T(J.T(J.T(J.T(J.T(J.T(q.b,0),"differentialDiagnoses"),0),"diagnosticInfo"),0),"result")))
 A.ct("json [0]['fallbackDiagnosis'] -> "+A.h(J.T(J.T(q.b,0),"fallbackDiagnosis")))
-A.ct("json [1]['name'] -> "+A.h(J.T(J.T(q.b,1),"name")))
+A.ct("json [1]['symptom'] -> "+A.h(J.T(J.T(q.b,1),"symptom")))
 A.ct("json [1]['fallbackDiagnosis'] -> "+A.h(J.T(J.T(q.b,1),"fallbackDiagnosis")))
 q.Bf()
 q.aN()
@@ -31370,16 +31370,16 @@ Bf(){var s=this
 if(J.eV(s.b))A.ct("data is empty, can not initJson()")
 else{s.f=s.e=s.d=0
 s.CK()}},
-CK(){var s=this,r="name",q="differentialDiagnoses",p="diagnosticInfo",o=s.b
-s.r=o
-o=J.T(J.T(o,s.d),r)
-s.y=o
-A.ct("updateModel(): jsonCurrentCardinalSymptom = "+A.h(o))
+CK(){var s=this,r="differentialDiagnoses",q="diagnosticInfo",p=s.b
+s.r=p
+p=J.T(J.T(p,s.d),"symptom")
+s.y=p
+A.ct("updateModel(): jsonCurrentCardinalSymptom = "+A.h(p))
 s.as=J.T(J.T(s.r,s.d),"fallbackDiagnosis")
-s.w=J.T(J.T(s.b,s.d),q)
-s.x=J.T(J.T(J.T(J.T(s.b,s.d),q),s.e),p)
-s.z=J.T(J.T(J.T(J.T(s.b,s.d),q),s.e),r)
-s.Q=J.T(J.T(J.T(J.T(J.T(J.T(s.b,s.d),q),s.e),p),s.f),r)},
+s.w=J.T(J.T(s.b,s.d),r)
+s.x=J.T(J.T(J.T(J.T(s.b,s.d),r),s.e),q)
+s.z=J.T(J.T(J.T(J.T(s.b,s.d),r),s.e),"name")
+s.Q=J.T(J.T(J.T(J.T(J.T(J.T(s.b,s.d),r),s.e),q),s.f),"name")},
 BL(){var s=this
 if(s.e+1<J.bj(s.w)){s.e=s.e+1
 s.f=0
