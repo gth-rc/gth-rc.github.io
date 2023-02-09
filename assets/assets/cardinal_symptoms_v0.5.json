@@ -1,0 +1,252 @@
+{
+    "cardinalSymptoms": [
+        {
+            "symptom": "lowBackPain",
+            "differentialDiagnoses": [
+                {
+                    "name": "Cauda equina syndrome",
+                    "diagnosticInfo": [
+                        {
+                            "name": "Urinary retention",
+                            "result": true,
+                            "clarification" : true
+                        },
+                        {
+                            "name": "Urinary/fecal incontinence",
+                            "result": true
+                        },
+                        {
+                            "name": "Saddle anethesia",
+                            "result": true
+                        },
+                        {
+                            "name": "Sexual dysfunction",
+                            "result": true
+                        }
+                    ],
+                    "result": false
+                },
+                {
+                    "name": "Spinal infection",
+                    "diagnosticInfo": [
+                        {
+                            "name": "Fever",
+                            "result": true
+                        },
+                        {
+                            "name": "Ague",
+                            "result": true
+                        },
+                        {
+                            "name": "Bacterial infection at any location",
+                            "result": true
+                        }
+                    ],
+                    "result": false
+                },
+                {
+                    "name": "Metastatic disease",
+                    "diagnosticInfo": [
+                        {
+                            "name": "Strong night pain",
+                            "result": true,
+                            "clarification" : true
+                        },
+                        {
+                            "name": "Unintentioned weight loss",
+                            "result": true,
+                            "clarification" : true
+                        },
+                        {
+                            "name": "Positive cancer history",
+                            "result": true,
+                            "clarification" : true
+                        },
+                        {
+                            "name": "Age > 70 years",
+                            "result": true,
+                            "clarification" : false
+                        }
+                    ],
+                    "result": true
+                },
+                {
+                    "name": "Vertebral fracture",
+                    "diagnosticInfo": [
+                        {
+                            "name": "Accident (also minimal)",
+                            "result": true
+                        }
+                    ],
+                    "result": true
+                },
+                {
+                    "name": "Radicular pain, spinal stenosis, or axial spondyloarthritis",
+                    "diagnosticInfo": [
+                        {
+                            "name": "Reduced force",
+                            "result": true
+                        },
+                        {
+                            "name": "Paresthesia",
+                            "result": true
+                        },
+                        {
+                            "name": "Susipicous radiography",
+                            "result": true
+                        }
+                    ],
+                    "result": true
+                }
+            ],
+            "fallbackDiagnosis": "It is probably nonspecific low back pain. Reassure the patient and discuss further procedure."
+        },
+        {
+            "symptom": "epigastricAbdominalPain",
+            "differentialDiagnoses": [
+                {
+                    "name": "Myocardial ischemia",
+                    "diagnosticInfo": [
+                        {
+                            "name": "Chest pain",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Radiating to arms",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Nausea/vomiting",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Perspiration",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Strenuous effort",
+                            "result": true,
+                            "clarification": true
+                        }
+                    ],
+                    "result": false
+                },
+                {
+                    "name": "Peptic ulcer disease",
+                    "diagnosticInfo": [
+                        {
+                            "name": "Burning pain",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Severe abrupt onset",
+                            "result": true,
+                            "clarification": true
+                        }
+                    ],
+                    "result": false
+                },
+                {
+                    "name": "Gastroesophageal reflux disease",
+                    "diagnosticInfo": [
+                        {
+                            "name": "Burning pain",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Better upright",
+                            "result": true,
+                            "clarification": true
+                        }
+                    ],
+                    "result": false
+                },
+                {
+                    "name": "Gastritis",
+                    "diagnosticInfo": [
+                        {
+                            "name": "Gnawing or burning pain",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Nausea/vomiting",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Early satiety",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Bloating",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Heartburn",
+                            "result": true,
+                            "clarification": true
+                        }
+                    ],
+                    "result": false
+                },
+                {
+                    "name": "Acute pancreatitis",
+                    "diagnosticInfo": [
+                        {
+                            "name": "Persistent pain",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Radiation to the back",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Nausea/vomiting",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Distended abdomen",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Ecchymosis (umbilical and flanks)",
+                            "result": true,
+                            "clarification": true
+                        }
+                    ],
+                    "result": false
+                },
+                {
+                    "name": "Gallbladder disease",
+                    "diagnosticInfo": [
+                        {
+                            "name": "Right upper quadrant pain",
+                            "result": true,
+                            "clarification": true
+                        },
+                        {
+                            "name": "Murphy's sign",
+                            "result": true,
+                            "clarification": true
+                        }
+                    ],
+                    "result": false
+                }
+            ],
+            "fallbackDiagnosis": "all differential diagnoses have been ruled out. it must be something else."
+        }
+    ]
+}

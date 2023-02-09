@@ -33974,7 +33974,7 @@ var $async$nG=A.ab(function(a,b){if(a===1)return A.a7(b,r)
 while(true)switch(s){case 0:o=J
 n=B.aR
 s=3
-return A.ak($.My().Z0("assets/cardinal_symptoms_v0.4.json"),$async$nG)
+return A.ak($.My().Z0("assets/cardinal_symptoms_v0.5.json"),$async$nG)
 case 3:s=2
 return A.ak(n.d6(0,b),$async$nG)
 case 2:p=o.V(b,"cardinalSymptoms")
