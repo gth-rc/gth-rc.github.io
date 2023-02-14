@@ -1,0 +1,38 @@
+{
+"symptom":"femalePelvicPain",
+"differentialDiagnoses":[
+	{
+	"name":"Diagnosis 1",
+	"diagnosticInfo":[
+		{
+		"name":"Info 1",
+		"result":true,
+		"clarification":true
+		},
+		{
+		"name":"Info 2",
+		"result":true,
+		"clarification":true
+		}
+	],
+	"result":false
+	},
+	{
+	"name":"Diagnosis 2",
+	"diagnosticInfo":[
+		{
+		"name":"Info 1",
+		"result":true,
+		"clarification":true
+		},
+		{
+		"name":"Info 2",
+		"result":true,
+		"clarification":true
+		}
+	],
+	"result":false
+	}
+],
+"fallbackDiagnosis":"Less frequent reasons of female pelvic pain are type1, type2, type3, ..."
+}

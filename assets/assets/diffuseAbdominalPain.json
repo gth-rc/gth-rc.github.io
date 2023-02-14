@@ -1,0 +1,184 @@
+{
+	"symptom": "diffuseAbdominalPain",
+	"differentialDiagnoses": [
+		{
+			"name": "Abdominal aortic aneurysm",
+			"diagnosticInfo": [
+				{
+					"name": "Sudden and severe pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Pain radiating to back",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Hypotension",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Pulsatile mass",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Syncope",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Unilateral scrotal ecchymosis",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": false
+		},
+		{
+			"name": "Acute gastroenteritis",
+			"diagnosticInfo": [
+				{
+					"name": "Vomiting/diarrhea",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": false
+		},
+		{
+			"name": "Initial appendicitis",
+			"diagnosticInfo": [
+				{
+					"name": "Maximal pain at McBurney",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Rebound pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Malaise/indigestion",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Nausea/vomitng",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": false
+		},
+		{
+			"name": "Bowel obstruction",
+			"diagnosticInfo": [
+				{
+					"name": "Info 1",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Info 2",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": false
+		},
+		{
+			"name": "Bowel perforation",
+			"diagnosticInfo": [
+				{
+					"name": "Info 1",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Info 2",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": false
+		},
+		{
+			"name": "Hernia",
+			"diagnosticInfo": [
+				{
+					"name": "Palpable mass",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Info 2",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": false
+		},
+		{
+			"name": "Inflammatory bowel disease",
+			"diagnosticInfo": [
+				{
+					"name": "Diarrhea",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Weight loss",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Perianal fissures or fistulae",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Skelettal/ocular/dermatologic symptoms",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Abdominal cramps",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": false
+		},
+		{
+			"name": "Peritonitis",
+			"diagnosticInfo": [
+				{
+					"name": "Rebound pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Abdominal rigidity",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Nausea",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Sepsis",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		}
+	],
+	"fallbackDiagnosis": "Less frequent reasons of diffuse abdominal pain are aortoenteric fistulae, gastropareses, diabetic ketoacidoses, ..."
+}

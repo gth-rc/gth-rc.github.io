@@ -1,0 +1,24 @@
+{
+    "Pain": {
+        "Abdominal pain": {
+            "Diffuse abdominal pain": "diffuseAbdominalPain.json",
+            "Epigastric abdominal pain": "epigastricAbdominalPain.json"
+        },
+        "Back pain": {
+            "Low back pain": "lowBackPain.json"
+        },
+        "Headeache" : "cardinalSymptom.json"
+    },
+    "Ear discharge": "earDischargeEmpty.json",
+    "D2Overcatergory1": {
+        "D1Overcatergory1": {
+            "GKcatergory1": "cardinalSymptom.json",
+            "GKcatergory2": {
+                "D1Subcatergory1": "cardinalSymptom.json",
+                "D1Subcatergory2": {
+                    "D2Subcatergory2": "cardinalSymptom.json"
+                }
+            }
+        }
+    }
+}
