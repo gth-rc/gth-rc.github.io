@@ -10,6 +10,7 @@
         "Headeache" : "cardinalSymptom.json"
     },
     "Ear discharge": "earDischargeEmpty.json",
+    "New Category": "cardinalSymptom.json",
     "D2Overcatergory1": {
         "D1Overcatergory1": {
             "GKcatergory1": "cardinalSymptom.json",

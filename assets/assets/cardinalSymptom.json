@@ -1,5 +1,5 @@
 {
-"symptom":"femalePelvicPain",
+"symptom":"someSymptom",
 "differentialDiagnoses":[
 	{
 	"name":"Diagnosis 1",
@@ -34,5 +34,5 @@
 	"result":false
 	}
 ],
-"fallbackDiagnosis":"Less frequent reasons of female pelvic pain are type1, type2, type3, ..."
+"fallbackDiagnosis":"Less frequent reasons of <some symptom> are <type1, type2, type3,> ..."
 }
