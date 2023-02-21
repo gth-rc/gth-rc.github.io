@@ -4,7 +4,8 @@
             "Diffuse abdominal pain": "diffuseAbdominalPain.json",
             "Epigastric abdominal pain": "epigastricAbdominalPain.json",
             "Left upper quadrant abdominal pain": "luqAbdominalPain.json",
-            "Left lower quadrant abdominal pain": "llqAbdominalPain.json"
+            "Left lower quadrant abdominal pain": "llqAbdominalPain.json",
+            "Right upper quadrant abdominal pain": "ruqAbdominalPain.json"
         },
         "Back pain": {
             "Low back pain": "lowBackPain.json"

@@ -1,0 +1,186 @@
+{
+	"symptom": "ruqAbdominalPain",
+	"differentialDiagnoses": [
+		{
+			"name": "Symptomatic cholelithiasis",
+			"diagnosticInfo": [
+				{
+					"name": "Known cholelithiasis",
+					"result": true,
+					"clarification": false
+				},
+				{
+					"name": "Heavy meals",
+					"result": true,
+					"clarification": false
+				},
+				{
+					"name": "Pain lasts some hours, then remits",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Pain radiates to the right shoulder",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Normal physical exam",
+					"result": true,
+					"clarification": false
+				}
+			],
+			"result": true
+		},
+		{
+			"name": "Choledocholithiasis",
+			"diagnosticInfo": [
+				{
+					"name": "Known cholelithiasis",
+					"result": true,
+					"clarification": false
+				},
+				{
+					"name": "Pain onset colicky/intermittent",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Pain becomes constant and severe",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Pain radiates to the right shoulder",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Jaundice/scleral icterus",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Nausea/vomiting",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		},
+		{
+			"name": "Peptic ulcer disease",
+			"diagnosticInfo": [
+				{
+					"name": "Distinct localisation",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Burning pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Severe abrupt onset",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Stronger before meal",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		},
+		{
+			"name": "Acute pancreatitis",
+			"diagnosticInfo": [
+				{
+					"name": "Known gallstones",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Alcohol consumption",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Persistent pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Radiation to the back",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Nausea/vomiting",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Distended abdomen",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Ecchymosis (umbilical and flanks)",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Hypoxemia",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		},
+		{
+			"name": "Acute hepatitis",
+			"diagnosticInfo": [
+				{
+					"name": "Acetaminophen consumption",
+					"result": true,
+					"clarification": false
+				},
+				{
+					"name": "Strong alcohol consumption",
+					"result": true,
+					"clarification": false
+				},
+				{
+					"name": "Strong drug consumption",
+					"result": true,
+					"clarification": false
+				},
+				{
+					"name": "Missing vaccinaion against hepatitis",
+					"result": true,
+					"clarification": false
+				},
+				{
+					"name": "Nausea/vomiting",
+					"result": true,
+					"clarification": false
+				},
+				{
+					"name": "Jaundice/bilirubinuria",
+					"result": true,
+					"clarification": false
+				},
+				{
+					"name": "Enlarged tender liver",
+					"result": true,
+					"clarification": false
+				}
+			],
+			"result": false
+		},
+	],
+	"fallbackDiagnoses": "Less frequent reasons of right upper quadrant abdominal pain are further gallbladder diseases, retrocecal appendicitides, lung diseases, ..."
+}
