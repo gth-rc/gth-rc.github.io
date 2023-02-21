@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "50da388398a15741c5596b8ceacd521f",
-"index.html": "d619a3bc7c211d1838c699c29d82d742",
-"/": "d619a3bc7c211d1838c699c29d82d742",
+"index.html": "aabd1f798824ddd7b2a2de8550d31304",
+"/": "aabd1f798824ddd7b2a2de8550d31304",
 "main.dart.js": "223a31ce2f43717ec53dce67fb79bd59",
 "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -23,7 +23,7 @@ const RESOURCES = {
 "assets/assets/cardinalSymptom.json": "0343c0240bbb7a37e46c69f19cb211ab",
 "assets/assets/earDischargeEmpty.json": "086059979f4d47a46e4a464f1ab2271f",
 "assets/assets/epigastricAbdominalPain.json": "23f99102309582a5a2cbfa181f4d6775",
-"assets/assets/master.json": "7a645fd5fd555fe9e76ecf07b3889f14",
+"assets/assets/master.json": "d5f826837d0befea1f6d900ca4b56bf6",
 "assets/assets/diffuseAbdominalPain.json": "0580221731be97603ede6c01d3ee52e7",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",

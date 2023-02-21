@@ -2,12 +2,14 @@
     "Pain": {
         "Abdominal pain": {
             "Diffuse abdominal pain": "diffuseAbdominalPain.json",
-            "Epigastric abdominal pain": "epigastricAbdominalPain.json"
+            "Epigastric abdominal pain": "epigastricAbdominalPain.json",
+            "Left upper quadrant abdominal pain": "luqAbdominalPain.json",
+            "Left lower quadrant abdominal pain": "llqAbdominalPain.json"
         },
         "Back pain": {
             "Low back pain": "lowBackPain.json"
         },
-        "Headeache" : "cardinalSymptom.json"
+        "Head ache" : "headAche.json"
     },
     "Ear discharge": "earDischargeEmpty.json",
     "New Category": "cardinalSymptom.json",
