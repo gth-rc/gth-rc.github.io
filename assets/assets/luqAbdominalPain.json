@@ -1,0 +1,315 @@
+{
+	"symptom": "luqAbdominalPain",
+	"differentialDiagnoses": [
+		{
+			"name": "Gastroesophageal reflux disease",
+			"diagnosticInfo": [
+				{
+					"name": "Fatty food/nicotine/ethanol/caffeine",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Burning pain/'heartburn'",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Better upright",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "With/shortly after meals",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Dysphagia",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		},
+		{
+			"name": "Peptic ulcer disease",
+			"diagnosticInfo": [
+				{
+					"name": "Distinct localisation",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Burning pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Severe abrupt onset",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Stronger before meal",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		},
+		{
+			"name": "Acute pancreatitis",
+			"diagnosticInfo": [
+				{
+					"name": "Known gallstones",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Alcohol consumption",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Persistent pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Radiation to the back",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Nausea/vomiting",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Distended abdomen",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Ecchymosis (umbilical and flanks)",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Hypoxemia",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		},
+		{
+			"name": "Splenic infarction",
+			"diagnosticInfo": [
+				{
+					"name": "Acute LUQ pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "LUQ tenderness",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Fever",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Nausea or Vomiting",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Splenomegaly",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Elevated LDH",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Leukocytosis",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		},
+		{
+			"name": "Pyelonephritis",
+			"diagnosticInfo": [
+				{
+					"name": "Dysuria/hematuria",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "fever/chills/nausea/vomiting",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		},
+		{
+			"name": "Small bowel obstruction",
+			"diagnosticInfo": [
+				{
+					"name": "History of surgery",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Frequent paroxysms",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Periumbilical or diffuse pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Vomiting",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Abdominal distension",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Inability to pass flatus",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		},
+		{
+			"name": "Myocardial ischemia",
+			"diagnosticInfo": [
+				{
+					"name": "Smoking/adipositas",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Recent exitement",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Chest pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Radiating to arms",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Nausea/vomiting",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Perspiration",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Strenuous effort",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		},
+		{
+			"name": "Nontraumatic aortic dissection",
+			"diagnosticInfo": [
+				{
+					"name": "60 - 80 years of age",
+					"result": true,
+					"clarification": false
+				},
+				{
+					"name": "Smoking/hypertension",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Tearing/ripping pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Migrating pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Sudden chest pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Focal neurologic deficit",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Diastolic heart murmur",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Pulse deficit",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		},
+		{
+			"name": "Myocarditis",
+			"diagnosticInfo": [
+				{
+					"name": "20 - 50 years of age",
+					"result": true,
+					"clarification": false
+				},
+				{
+					"name": "Chest pain",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Pericardial friction rub",
+					"result": true,
+					"clarification": true
+				},
+				{
+					"name": "Flu-like symptoms",
+					"result": true,
+					"clarification": true
+				}
+			],
+			"result": true
+		}
+	],
+	"fallbackDiagnosis": "Less frequent reasons of left upper quadrant abdominal pain are pneumoniae, pulmonary embolisms, herpes zoster, ..."
+}
